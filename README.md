@@ -30,7 +30,7 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
 
     agent.py
 
-7. Finally Run the parent folder
+7. Finally Run the folder
 
       adk run myagent  (Run in powershell or CMD)
       
