@@ -7,13 +7,13 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
 
 2. set up a virtual environment
 
-      python -m venv .venv
+            python -m venv .venv
 
-      .\.venv\Scripts\activate
+            .\.venv\Scripts\activate
 
 3. Install required packages
 
- pip install google-adk
+       pip install google-adk
 
 
 4. create file
