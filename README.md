@@ -4,8 +4,11 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
 # Structure
 myagent/
 ├── agent.py
-├── __init__.py
+
+├── __init__.
+
 ├── .env
+
 └── README.md
 
 # how to create a agent
