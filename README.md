@@ -1,16 +1,6 @@
 # Documentation-agent
 A Documentation Agent is an AI-powered tool that automatically translates raw code, scripts, or changes into easy-to-understand documentation.
 
-# Structure
-myagent/
-
-├── agent.py
-
-├── __init__.
-
-├── .env
-
-└── README.md
 
 # how to create a agent
 
@@ -46,6 +36,17 @@ myagent/
       adk run myagent  (Run in powershell or CMD)
       
       adk web     (Run in Agent Development kit)
+
+   # Structure
+myagent/
+
+├── agent.py
+
+├── __init__.
+
+├── .env
+
+└── README.md
 
 # Result    
 
