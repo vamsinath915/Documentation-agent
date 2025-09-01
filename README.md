@@ -36,7 +36,7 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
       
       adk web     (Run in Agent Development kit)
 
-    
+# Result    
 
 <img width="1920" height="919" alt="ADK" src="https://github.com/user-attachments/assets/3681559d-11b9-4074-8453-0e9bbb814c64" />
 
