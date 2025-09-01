@@ -22,7 +22,7 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
 
 5. CREATE API KEY FROM Google AI Studio
 
-6.myAgent folder created
+6. myAgent folder created
 
     .env
 
@@ -30,7 +30,7 @@ A Documentation Agent is an AI-powered tool that automatically translates raw co
 
     agent.py
 
-7.Finally Run the parent folder
+7. Finally Run the parent folder
 
       adk run myagent  (Run in powershell or CMD)
       
